@@ -1,0 +1,15 @@
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp2.2\GameCenter.deps.json
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp2.2\GameCenter.runtimeconfig.json
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp2.2\GameCenter.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp2.2\GameCenter.dll
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp2.2\GameCenter.pdb
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp2.2\TeamSource.dll
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\bin\Debug\netcoreapp2.2\TeamSource.pdb
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp2.2\GameCenter.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp2.2\GameCenter.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp2.2\GameCenter.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp2.2\GameCenter.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp2.2\GameCenter.csproj.CopyComplete
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp2.2\GameCenter.dll
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp2.2\GameCenter.pdb
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\GameCenter\obj\Debug\netcoreapp2.2\GameCenter.genruntimeconfig.cache

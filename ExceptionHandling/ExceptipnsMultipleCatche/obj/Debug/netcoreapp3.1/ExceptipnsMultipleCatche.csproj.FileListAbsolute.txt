@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\bin\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.exe
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\bin\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.deps.json
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\bin\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.runtimeconfig.json
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\bin\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\bin\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.dll
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\bin\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.pdb
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\obj\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\obj\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\obj\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\obj\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.AssemblyInfo.cs
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\obj\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.dll
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\obj\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.pdb
+C:\Users\vikto\source\repos\ExceptionHandling\ExceptipnsMultipleCatche\obj\Debug\netcoreapp3.1\ExceptipnsMultipleCatche.genruntimeconfig.cache

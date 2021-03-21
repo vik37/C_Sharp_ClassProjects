@@ -1,0 +1,9 @@
+C:\Users\vikto\source\repos\Habits\LogicalContext\bin\Debug\netcoreapp3.1\LogicalContext.deps.json
+C:\Users\vikto\source\repos\Habits\LogicalContext\bin\Debug\netcoreapp3.1\LogicalContext.dll
+C:\Users\vikto\source\repos\Habits\LogicalContext\bin\Debug\netcoreapp3.1\LogicalContext.pdb
+C:\Users\vikto\source\repos\Habits\LogicalContext\obj\Debug\netcoreapp3.1\LogicalContext.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Habits\LogicalContext\obj\Debug\netcoreapp3.1\LogicalContext.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Habits\LogicalContext\obj\Debug\netcoreapp3.1\LogicalContext.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Habits\LogicalContext\obj\Debug\netcoreapp3.1\LogicalContext.dll
+C:\Users\vikto\source\repos\Habits\LogicalContext\obj\Debug\netcoreapp3.1\LogicalContext.pdb
+C:\Users\vikto\source\repos\Habits\LogicalContext\obj\Debug\netcoreapp3.1\LogicalContext.csprojAssemblyReference.cache

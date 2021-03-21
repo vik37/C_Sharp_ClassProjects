@@ -1,0 +1,11 @@
+C:\Users\vikto\source\repos\class_04\string_func\bin\Debug\netcoreapp3.1\string_func.exe
+C:\Users\vikto\source\repos\class_04\string_func\bin\Debug\netcoreapp3.1\string_func.deps.json
+C:\Users\vikto\source\repos\class_04\string_func\bin\Debug\netcoreapp3.1\string_func.runtimeconfig.json
+C:\Users\vikto\source\repos\class_04\string_func\bin\Debug\netcoreapp3.1\string_func.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\class_04\string_func\bin\Debug\netcoreapp3.1\string_func.dll
+C:\Users\vikto\source\repos\class_04\string_func\bin\Debug\netcoreapp3.1\string_func.pdb
+C:\Users\vikto\source\repos\class_04\string_func\obj\Debug\netcoreapp3.1\string_func.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\class_04\string_func\obj\Debug\netcoreapp3.1\string_func.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\class_04\string_func\obj\Debug\netcoreapp3.1\string_func.AssemblyInfo.cs
+C:\Users\vikto\source\repos\class_04\string_func\obj\Debug\netcoreapp3.1\string_func.dll
+C:\Users\vikto\source\repos\class_04\string_func\obj\Debug\netcoreapp3.1\string_func.pdb

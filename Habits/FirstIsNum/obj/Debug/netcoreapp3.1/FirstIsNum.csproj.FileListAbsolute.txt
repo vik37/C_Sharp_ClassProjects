@@ -1,0 +1,9 @@
+C:\Users\vikto\source\repos\Habits\FirstIsNum\bin\Debug\netcoreapp3.1\FirstIsNum.deps.json
+C:\Users\vikto\source\repos\Habits\FirstIsNum\bin\Debug\netcoreapp3.1\FirstIsNum.dll
+C:\Users\vikto\source\repos\Habits\FirstIsNum\bin\Debug\netcoreapp3.1\FirstIsNum.pdb
+C:\Users\vikto\source\repos\Habits\FirstIsNum\obj\Debug\netcoreapp3.1\FirstIsNum.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Habits\FirstIsNum\obj\Debug\netcoreapp3.1\FirstIsNum.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Habits\FirstIsNum\obj\Debug\netcoreapp3.1\FirstIsNum.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Habits\FirstIsNum\obj\Debug\netcoreapp3.1\FirstIsNum.dll
+C:\Users\vikto\source\repos\Habits\FirstIsNum\obj\Debug\netcoreapp3.1\FirstIsNum.pdb
+C:\Users\vikto\source\repos\Habits\FirstIsNum\obj\Debug\netcoreapp3.1\FirstIsNum.csprojAssemblyReference.cache

@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\bin\Debug\netcoreapp3.1\dodatok_vezbi04.exe
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\bin\Debug\netcoreapp3.1\dodatok_vezbi04.deps.json
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\bin\Debug\netcoreapp3.1\dodatok_vezbi04.runtimeconfig.json
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\bin\Debug\netcoreapp3.1\dodatok_vezbi04.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\bin\Debug\netcoreapp3.1\dodatok_vezbi04.dll
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\bin\Debug\netcoreapp3.1\dodatok_vezbi04.pdb
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\obj\Debug\netcoreapp3.1\dodatok_vezbi04.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\obj\Debug\netcoreapp3.1\dodatok_vezbi04.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\obj\Debug\netcoreapp3.1\dodatok_vezbi04.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\obj\Debug\netcoreapp3.1\dodatok_vezbi04.AssemblyInfo.cs
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\obj\Debug\netcoreapp3.1\dodatok_vezbi04.dll
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\obj\Debug\netcoreapp3.1\dodatok_vezbi04.pdb
+C:\Users\vikto\source\repos\vezbi_04\dodatok_vezbi04\obj\Debug\netcoreapp3.1\dodatok_vezbi04.genruntimeconfig.cache

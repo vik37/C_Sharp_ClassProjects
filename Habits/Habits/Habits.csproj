@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackFunctionality\BackFunctionality.csproj" />
+    <ProjectReference Include="..\FirstIsNum\FirstIsNum.csproj" />
+    <ProjectReference Include="..\LogicalContext\LogicalContext.csproj" />
+    <ProjectReference Include="..\MustHaveNumber\MustHaveNumber.csproj" />
+  </ItemGroup>
+
+</Project>

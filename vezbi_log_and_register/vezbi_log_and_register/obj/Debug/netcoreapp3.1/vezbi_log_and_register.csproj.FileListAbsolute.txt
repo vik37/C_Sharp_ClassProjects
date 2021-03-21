@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\bin\Debug\netcoreapp3.1\vezbi_log_and_register.exe
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\bin\Debug\netcoreapp3.1\vezbi_log_and_register.deps.json
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\bin\Debug\netcoreapp3.1\vezbi_log_and_register.runtimeconfig.json
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\bin\Debug\netcoreapp3.1\vezbi_log_and_register.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\bin\Debug\netcoreapp3.1\vezbi_log_and_register.dll
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\bin\Debug\netcoreapp3.1\vezbi_log_and_register.pdb
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\obj\Debug\netcoreapp3.1\vezbi_log_and_register.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\obj\Debug\netcoreapp3.1\vezbi_log_and_register.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\obj\Debug\netcoreapp3.1\vezbi_log_and_register.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\obj\Debug\netcoreapp3.1\vezbi_log_and_register.AssemblyInfo.cs
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\obj\Debug\netcoreapp3.1\vezbi_log_and_register.dll
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\obj\Debug\netcoreapp3.1\vezbi_log_and_register.pdb
+C:\Users\vikto\source\repos\vezbi_log_and_register\vezbi_log_and_register\obj\Debug\netcoreapp3.1\vezbi_log_and_register.genruntimeconfig.cache

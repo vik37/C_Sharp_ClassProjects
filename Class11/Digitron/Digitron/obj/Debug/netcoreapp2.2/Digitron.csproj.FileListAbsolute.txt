@@ -1,0 +1,15 @@
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\obj\Debug\netcoreapp2.2\Digitron.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\obj\Debug\netcoreapp2.2\Digitron.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\obj\Debug\netcoreapp2.2\Digitron.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\obj\Debug\netcoreapp2.2\Digitron.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\bin\Debug\netcoreapp2.2\Digitron.deps.json
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\bin\Debug\netcoreapp2.2\Digitron.runtimeconfig.json
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\bin\Debug\netcoreapp2.2\Digitron.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\bin\Debug\netcoreapp2.2\Digitron.dll
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\bin\Debug\netcoreapp2.2\Digitron.pdb
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\bin\Debug\netcoreapp2.2\Calculator.dll
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\bin\Debug\netcoreapp2.2\Calculator.pdb
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\obj\Debug\netcoreapp2.2\Digitron.csproj.CopyComplete
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\obj\Debug\netcoreapp2.2\Digitron.dll
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\obj\Debug\netcoreapp2.2\Digitron.pdb
+C:\Users\vikto\source\repos\Class11\Digitron\Digitron\obj\Debug\netcoreapp2.2\Digitron.genruntimeconfig.cache

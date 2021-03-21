@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\bin\Debug\netcoreapp3.1\Vezbi_svasta01.exe
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\bin\Debug\netcoreapp3.1\Vezbi_svasta01.deps.json
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\bin\Debug\netcoreapp3.1\Vezbi_svasta01.runtimeconfig.json
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\bin\Debug\netcoreapp3.1\Vezbi_svasta01.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\bin\Debug\netcoreapp3.1\Vezbi_svasta01.dll
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\bin\Debug\netcoreapp3.1\Vezbi_svasta01.pdb
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\obj\Debug\netcoreapp3.1\Vezbi_svasta01.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\obj\Debug\netcoreapp3.1\Vezbi_svasta01.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\obj\Debug\netcoreapp3.1\Vezbi_svasta01.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\obj\Debug\netcoreapp3.1\Vezbi_svasta01.dll
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\obj\Debug\netcoreapp3.1\Vezbi_svasta01.pdb
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\obj\Debug\netcoreapp3.1\Vezbi_svasta01.genruntimeconfig.cache
+C:\Users\vikto\source\repos\Vezbi_svasta01\Vezbi_svasta01\obj\Debug\netcoreapp3.1\Vezbi_svasta01.csprojAssemblyReference.cache

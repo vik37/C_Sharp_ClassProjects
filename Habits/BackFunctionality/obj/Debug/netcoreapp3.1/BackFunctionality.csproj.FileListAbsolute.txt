@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Habits\BackFunctionality\bin\Debug\netcoreapp3.1\BackFunctionality.deps.json
+C:\Users\vikto\source\repos\Habits\BackFunctionality\bin\Debug\netcoreapp3.1\BackFunctionality.dll
+C:\Users\vikto\source\repos\Habits\BackFunctionality\bin\Debug\netcoreapp3.1\BackFunctionality.pdb
+C:\Users\vikto\source\repos\Habits\BackFunctionality\obj\Debug\netcoreapp3.1\BackFunctionality.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Habits\BackFunctionality\obj\Debug\netcoreapp3.1\BackFunctionality.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Habits\BackFunctionality\obj\Debug\netcoreapp3.1\BackFunctionality.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Habits\BackFunctionality\obj\Debug\netcoreapp3.1\BackFunctionality.dll
+C:\Users\vikto\source\repos\Habits\BackFunctionality\obj\Debug\netcoreapp3.1\BackFunctionality.pdb
+C:\Users\vikto\source\repos\Habits\BackFunctionality\bin\Debug\netcoreapp3.1\LogicalContext.dll
+C:\Users\vikto\source\repos\Habits\BackFunctionality\bin\Debug\netcoreapp3.1\LogicalContext.pdb
+C:\Users\vikto\source\repos\Habits\BackFunctionality\obj\Debug\netcoreapp3.1\BackFunctionality.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Habits\BackFunctionality\obj\Debug\netcoreapp3.1\BackFunctionality.csproj.CopyComplete

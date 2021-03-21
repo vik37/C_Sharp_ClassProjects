@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\class10\NongenericColection\bin\Debug\netcoreapp3.1\NongenericColection.exe
+C:\Users\vikto\source\repos\class10\NongenericColection\bin\Debug\netcoreapp3.1\NongenericColection.deps.json
+C:\Users\vikto\source\repos\class10\NongenericColection\bin\Debug\netcoreapp3.1\NongenericColection.runtimeconfig.json
+C:\Users\vikto\source\repos\class10\NongenericColection\bin\Debug\netcoreapp3.1\NongenericColection.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\class10\NongenericColection\bin\Debug\netcoreapp3.1\NongenericColection.dll
+C:\Users\vikto\source\repos\class10\NongenericColection\bin\Debug\netcoreapp3.1\NongenericColection.pdb
+C:\Users\vikto\source\repos\class10\NongenericColection\obj\Debug\netcoreapp3.1\NongenericColection.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\class10\NongenericColection\obj\Debug\netcoreapp3.1\NongenericColection.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\class10\NongenericColection\obj\Debug\netcoreapp3.1\NongenericColection.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\class10\NongenericColection\obj\Debug\netcoreapp3.1\NongenericColection.AssemblyInfo.cs
+C:\Users\vikto\source\repos\class10\NongenericColection\obj\Debug\netcoreapp3.1\NongenericColection.dll
+C:\Users\vikto\source\repos\class10\NongenericColection\obj\Debug\netcoreapp3.1\NongenericColection.pdb
+C:\Users\vikto\source\repos\class10\NongenericColection\obj\Debug\netcoreapp3.1\NongenericColection.genruntimeconfig.cache

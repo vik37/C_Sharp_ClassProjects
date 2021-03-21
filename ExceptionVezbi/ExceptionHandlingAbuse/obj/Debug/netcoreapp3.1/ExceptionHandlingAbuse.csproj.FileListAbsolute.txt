@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\ExceptionHandlingAbuse.exe
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\ExceptionHandlingAbuse.deps.json
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\ExceptionHandlingAbuse.runtimeconfig.json
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\ExceptionHandlingAbuse.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\ExceptionHandlingAbuse.dll
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\bin\Debug\netcoreapp3.1\ExceptionHandlingAbuse.pdb
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\obj\Debug\netcoreapp3.1\ExceptionHandlingAbuse.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\obj\Debug\netcoreapp3.1\ExceptionHandlingAbuse.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\obj\Debug\netcoreapp3.1\ExceptionHandlingAbuse.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\obj\Debug\netcoreapp3.1\ExceptionHandlingAbuse.AssemblyInfo.cs
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\obj\Debug\netcoreapp3.1\ExceptionHandlingAbuse.dll
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\obj\Debug\netcoreapp3.1\ExceptionHandlingAbuse.pdb
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionHandlingAbuse\obj\Debug\netcoreapp3.1\ExceptionHandlingAbuse.genruntimeconfig.cache

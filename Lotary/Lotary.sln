@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lotary", "Lotary\Lotary.csproj", "{E7FA5500-C7F8-4D70-AFF5-BA4D4E7D64F6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NewFolder1", "NewFolder1", "{AEE9B657-720D-485C-BE5C-F01DBC954C31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LottoServices", "LottoServices\LottoServices.csproj", "{7D07C694-EAF4-4899-9964-A681C6A80000}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7FA5500-C7F8-4D70-AFF5-BA4D4E7D64F6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7FA5500-C7F8-4D70-AFF5-BA4D4E7D64F6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7FA5500-C7F8-4D70-AFF5-BA4D4E7D64F6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7FA5500-C7F8-4D70-AFF5-BA4D4E7D64F6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D07C694-EAF4-4899-9964-A681C6A80000}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D07C694-EAF4-4899-9964-A681C6A80000}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D07C694-EAF4-4899-9964-A681C6A80000}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D07C694-EAF4-4899-9964-A681C6A80000}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9094EDE7-EBA3-4C71-B473-05E898F00239}
+	EndGlobalSection
+EndGlobal

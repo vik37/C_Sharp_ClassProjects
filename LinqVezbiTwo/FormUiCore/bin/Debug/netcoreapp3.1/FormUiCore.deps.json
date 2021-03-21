@@ -1,0 +1,59 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FormUiCore/1.0.0": {
+        "dependencies": {
+          "FontAwesome": "4.7.0",
+          "LinqVezbiTwo": "1.0.0",
+          "Person": "1.0.0"
+        },
+        "runtime": {
+          "FormUiCore.dll": {}
+        }
+      },
+      "FontAwesome/4.7.0": {},
+      "LinqVezbiTwo/1.0.0": {
+        "dependencies": {
+          "Person": "1.0.0"
+        },
+        "runtime": {
+          "LinqVezbiTwo.dll": {}
+        }
+      },
+      "Person/1.0.0": {
+        "runtime": {
+          "Person.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FormUiCore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FontAwesome/4.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-n4H/brfszElyoZ4kmGh8E75uqvLzLvFr3h2PFVdPH1LwUmWIpeqdaW2pcC4oZAhg7sESyObh0IZpAI8COCNeUg==",
+      "path": "fontawesome/4.7.0",
+      "hashPath": "fontawesome.4.7.0.nupkg.sha512"
+    },
+    "LinqVezbiTwo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Person/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

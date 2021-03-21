@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\bin\Debug\netcoreapp2.2\AcademyApp.deps.json
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\bin\Debug\netcoreapp2.2\AcademyApp.runtimeconfig.json
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\bin\Debug\netcoreapp2.2\AcademyApp.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\bin\Debug\netcoreapp2.2\AcademyApp.dll
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\bin\Debug\netcoreapp2.2\AcademyApp.pdb
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.dll
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.pdb
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.genruntimeconfig.cache
+C:\Users\vikto\source\repos\Class7Prep\AcademyApp\obj\Debug\netcoreapp2.2\AcademyApp.csprojAssemblyReference.cache

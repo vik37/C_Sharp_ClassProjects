@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\bin\Debug\netcoreapp3.1\CostumException.exe
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\bin\Debug\netcoreapp3.1\CostumException.deps.json
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\bin\Debug\netcoreapp3.1\CostumException.runtimeconfig.json
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\bin\Debug\netcoreapp3.1\CostumException.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\bin\Debug\netcoreapp3.1\CostumException.dll
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\bin\Debug\netcoreapp3.1\CostumException.pdb
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\obj\Debug\netcoreapp3.1\CostumException.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\obj\Debug\netcoreapp3.1\CostumException.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\obj\Debug\netcoreapp3.1\CostumException.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\obj\Debug\netcoreapp3.1\CostumException.AssemblyInfo.cs
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\obj\Debug\netcoreapp3.1\CostumException.dll
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\obj\Debug\netcoreapp3.1\CostumException.pdb
+C:\Users\vikto\source\repos\ExceptionVezbi\CostumException\obj\Debug\netcoreapp3.1\CostumException.genruntimeconfig.cache

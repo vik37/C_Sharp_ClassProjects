@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\bin\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.exe
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\bin\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.deps.json
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\bin\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.runtimeconfig.json
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\bin\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\bin\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.dll
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\bin\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.pdb
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\obj\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\obj\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.AssemblyInfo.cs
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\obj\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\obj\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.dll
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\obj\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.pdb
+C:\Users\vikto\source\repos\SEDC.Class6.AnonimusFunctions\SEDC.Class6.AnonimusFunc\obj\Debug\netcoreapp3.1\SEDC.Class6.AnonimusFunc.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\vikto\source\repos\strings_vezbi\strings_vezbi\bin\Debug\netcoreapp3.1\strings_vezbi.exe
+C:\Users\vikto\source\repos\strings_vezbi\strings_vezbi\bin\Debug\netcoreapp3.1\strings_vezbi.deps.json
+C:\Users\vikto\source\repos\strings_vezbi\strings_vezbi\bin\Debug\netcoreapp3.1\strings_vezbi.runtimeconfig.json
+C:\Users\vikto\source\repos\strings_vezbi\strings_vezbi\bin\Debug\netcoreapp3.1\strings_vezbi.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\strings_vezbi\strings_vezbi\bin\Debug\netcoreapp3.1\strings_vezbi.dll
+C:\Users\vikto\source\repos\strings_vezbi\strings_vezbi\bin\Debug\netcoreapp3.1\strings_vezbi.pdb
+C:\Users\vikto\source\repos\strings_vezbi\strings_vezbi\obj\Debug\netcoreapp3.1\strings_vezbi.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\strings_vezbi\strings_vezbi\obj\Debug\netcoreapp3.1\strings_vezbi.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\strings_vezbi\strings_vezbi\obj\Debug\netcoreapp3.1\strings_vezbi.AssemblyInfo.cs
+C:\Users\vikto\source\repos\strings_vezbi\strings_vezbi\obj\Debug\netcoreapp3.1\strings_vezbi.dll
+C:\Users\vikto\source\repos\strings_vezbi\strings_vezbi\obj\Debug\netcoreapp3.1\strings_vezbi.pdb

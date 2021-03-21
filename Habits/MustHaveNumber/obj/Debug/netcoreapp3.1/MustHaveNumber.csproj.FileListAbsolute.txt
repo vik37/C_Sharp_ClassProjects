@@ -1,0 +1,9 @@
+C:\Users\vikto\source\repos\Habits\MustHaveNumber\bin\Debug\netcoreapp3.1\MustHaveNumber.deps.json
+C:\Users\vikto\source\repos\Habits\MustHaveNumber\bin\Debug\netcoreapp3.1\MustHaveNumber.dll
+C:\Users\vikto\source\repos\Habits\MustHaveNumber\bin\Debug\netcoreapp3.1\MustHaveNumber.pdb
+C:\Users\vikto\source\repos\Habits\MustHaveNumber\obj\Debug\netcoreapp3.1\MustHaveNumber.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Habits\MustHaveNumber\obj\Debug\netcoreapp3.1\MustHaveNumber.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Habits\MustHaveNumber\obj\Debug\netcoreapp3.1\MustHaveNumber.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Habits\MustHaveNumber\obj\Debug\netcoreapp3.1\MustHaveNumber.dll
+C:\Users\vikto\source\repos\Habits\MustHaveNumber\obj\Debug\netcoreapp3.1\MustHaveNumber.pdb
+C:\Users\vikto\source\repos\Habits\MustHaveNumber\obj\Debug\netcoreapp3.1\MustHaveNumber.csprojAssemblyReference.cache

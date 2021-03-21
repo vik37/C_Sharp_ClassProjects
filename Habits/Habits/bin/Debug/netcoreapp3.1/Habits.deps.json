@@ -1,0 +1,72 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Habits/1.0.0": {
+        "dependencies": {
+          "BackFunctionality": "1.0.0",
+          "FirstIsNum": "1.0.0",
+          "LogicalContext": "1.0.0",
+          "MustHaveNumber": "1.0.0"
+        },
+        "runtime": {
+          "Habits.dll": {}
+        }
+      },
+      "BackFunctionality/1.0.0": {
+        "dependencies": {
+          "LogicalContext": "1.0.0"
+        },
+        "runtime": {
+          "BackFunctionality.dll": {}
+        }
+      },
+      "FirstIsNum/1.0.0": {
+        "runtime": {
+          "FirstIsNum.dll": {}
+        }
+      },
+      "LogicalContext/1.0.0": {
+        "runtime": {
+          "LogicalContext.dll": {}
+        }
+      },
+      "MustHaveNumber/1.0.0": {
+        "runtime": {
+          "MustHaveNumber.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Habits/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BackFunctionality/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FirstIsNum/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicalContext/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MustHaveNumber/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

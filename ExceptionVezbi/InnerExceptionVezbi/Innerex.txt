@@ -1,0 +1,3 @@
+DivideByZeroException
+Something Wrong === Attempted to divide by zero.
+   at InnerExceptionVezbi.Program.Main(String[] args) in C:\Users\vikto\source\repos\ExceptionVezbi\InnerExceptionVezbi\Program.cs:line 20

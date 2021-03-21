@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExceptionVezbi", "ExceptionVezbi\ExceptionVezbi.csproj", "{3D35ACDB-2EAF-4525-A3DF-03FF86B9952E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InnerExceptionVezbi", "InnerExceptionVezbi\InnerExceptionVezbi.csproj", "{6622C59C-6A79-486E-AFAF-9B32B3F826CC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CostumException", "CostumException\CostumException.csproj", "{0A3CDB64-89F8-43D7-87C6-FCC217427B7E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExceptionHandlingAbuse", "ExceptionHandlingAbuse\ExceptionHandlingAbuse.csproj", "{436B46AB-876F-4847-A231-8AA7C64042D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D35ACDB-2EAF-4525-A3DF-03FF86B9952E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D35ACDB-2EAF-4525-A3DF-03FF86B9952E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D35ACDB-2EAF-4525-A3DF-03FF86B9952E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D35ACDB-2EAF-4525-A3DF-03FF86B9952E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6622C59C-6A79-486E-AFAF-9B32B3F826CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6622C59C-6A79-486E-AFAF-9B32B3F826CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6622C59C-6A79-486E-AFAF-9B32B3F826CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6622C59C-6A79-486E-AFAF-9B32B3F826CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0A3CDB64-89F8-43D7-87C6-FCC217427B7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A3CDB64-89F8-43D7-87C6-FCC217427B7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A3CDB64-89F8-43D7-87C6-FCC217427B7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A3CDB64-89F8-43D7-87C6-FCC217427B7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{436B46AB-876F-4847-A231-8AA7C64042D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{436B46AB-876F-4847-A231-8AA7C64042D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{436B46AB-876F-4847-A231-8AA7C64042D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{436B46AB-876F-4847-A231-8AA7C64042D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88EEE60A-212B-4558-B319-A298DC90F13C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.deps.json
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.runtimeconfig.json
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.dll
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\bin\Debug\netcoreapp2.2\LINQApp.pdb
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.dll
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.pdb
+C:\Users\vikto\source\repos\Class12LINQPrep\LINQApp\obj\Debug\netcoreapp2.2\LINQApp.genruntimeconfig.cache

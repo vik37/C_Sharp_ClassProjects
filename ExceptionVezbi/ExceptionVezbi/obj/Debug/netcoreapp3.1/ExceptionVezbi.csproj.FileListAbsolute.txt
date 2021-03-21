@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\bin\Debug\netcoreapp3.1\ExceptionVezbi.exe
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\bin\Debug\netcoreapp3.1\ExceptionVezbi.deps.json
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\bin\Debug\netcoreapp3.1\ExceptionVezbi.runtimeconfig.json
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\bin\Debug\netcoreapp3.1\ExceptionVezbi.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\bin\Debug\netcoreapp3.1\ExceptionVezbi.dll
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\bin\Debug\netcoreapp3.1\ExceptionVezbi.pdb
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\obj\Debug\netcoreapp3.1\ExceptionVezbi.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\obj\Debug\netcoreapp3.1\ExceptionVezbi.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\obj\Debug\netcoreapp3.1\ExceptionVezbi.AssemblyInfo.cs
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\obj\Debug\netcoreapp3.1\ExceptionVezbi.dll
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\obj\Debug\netcoreapp3.1\ExceptionVezbi.pdb
+C:\Users\vikto\source\repos\ExceptionVezbi\ExceptionVezbi\obj\Debug\netcoreapp3.1\ExceptionVezbi.genruntimeconfig.cache

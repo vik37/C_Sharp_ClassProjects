@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\class10\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.exe
+C:\Users\vikto\source\repos\class10\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.deps.json
+C:\Users\vikto\source\repos\class10\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.runtimeconfig.json
+C:\Users\vikto\source\repos\class10\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\class10\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.dll
+C:\Users\vikto\source\repos\class10\GenericCollection\bin\Debug\netcoreapp3.1\GenericCollection.pdb
+C:\Users\vikto\source\repos\class10\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\class10\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\class10\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\class10\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.AssemblyInfo.cs
+C:\Users\vikto\source\repos\class10\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.dll
+C:\Users\vikto\source\repos\class10\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.pdb
+C:\Users\vikto\source\repos\class10\GenericCollection\obj\Debug\netcoreapp3.1\GenericCollection.genruntimeconfig.cache

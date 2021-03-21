@@ -1,0 +1,16 @@
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\bin\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.exe
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\bin\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.deps.json
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\bin\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.runtimeconfig.json
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\bin\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\bin\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.dll
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\bin\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.pdb
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\bin\Debug\netcoreapp3.1\Helper.dll
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\bin\Debug\netcoreapp3.1\Helper.pdb
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\obj\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\obj\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\obj\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\obj\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.AssemblyInfo.cs
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\obj\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.csproj.CopyComplete
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\obj\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.dll
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\obj\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.pdb
+C:\Users\vikto\source\repos\vezbiExerciseSvastaFirst\vezbiExerciseSvastaFirst\obj\Debug\netcoreapp3.1\vezbiExerciseSvastaFirst.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\Clas17\StaticKayword\bin\Debug\netcoreapp3.1\StaticKayword.exe
+C:\Users\vikto\source\repos\Clas17\StaticKayword\bin\Debug\netcoreapp3.1\StaticKayword.deps.json
+C:\Users\vikto\source\repos\Clas17\StaticKayword\bin\Debug\netcoreapp3.1\StaticKayword.runtimeconfig.json
+C:\Users\vikto\source\repos\Clas17\StaticKayword\bin\Debug\netcoreapp3.1\StaticKayword.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Clas17\StaticKayword\bin\Debug\netcoreapp3.1\StaticKayword.dll
+C:\Users\vikto\source\repos\Clas17\StaticKayword\bin\Debug\netcoreapp3.1\StaticKayword.pdb
+C:\Users\vikto\source\repos\Clas17\StaticKayword\obj\Debug\netcoreapp3.1\StaticKayword.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Clas17\StaticKayword\obj\Debug\netcoreapp3.1\StaticKayword.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Clas17\StaticKayword\obj\Debug\netcoreapp3.1\StaticKayword.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Clas17\StaticKayword\obj\Debug\netcoreapp3.1\StaticKayword.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Clas17\StaticKayword\obj\Debug\netcoreapp3.1\StaticKayword.dll
+C:\Users\vikto\source\repos\Clas17\StaticKayword\obj\Debug\netcoreapp3.1\StaticKayword.pdb
+C:\Users\vikto\source\repos\Clas17\StaticKayword\obj\Debug\netcoreapp3.1\StaticKayword.genruntimeconfig.cache

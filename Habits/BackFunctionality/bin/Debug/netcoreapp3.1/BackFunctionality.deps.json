@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BackFunctionality/1.0.0": {
+        "dependencies": {
+          "LogicalContext": "1.0.0"
+        },
+        "runtime": {
+          "BackFunctionality.dll": {}
+        }
+      },
+      "LogicalContext/1.0.0": {
+        "runtime": {
+          "LogicalContext.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BackFunctionality/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LogicalContext/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

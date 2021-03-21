@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\bin\Debug\netcoreapp2.2\Vezbi2Inherit.deps.json
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\bin\Debug\netcoreapp2.2\Vezbi2Inherit.runtimeconfig.json
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\bin\Debug\netcoreapp2.2\Vezbi2Inherit.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\bin\Debug\netcoreapp2.2\Vezbi2Inherit.dll
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\bin\Debug\netcoreapp2.2\Vezbi2Inherit.pdb
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\obj\Debug\netcoreapp2.2\Vezbi2Inherit.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\obj\Debug\netcoreapp2.2\Vezbi2Inherit.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\obj\Debug\netcoreapp2.2\Vezbi2Inherit.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\obj\Debug\netcoreapp2.2\Vezbi2Inherit.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\obj\Debug\netcoreapp2.2\Vezbi2Inherit.dll
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\obj\Debug\netcoreapp2.2\Vezbi2Inherit.pdb
+C:\Users\vikto\source\repos\Vezbi2Inherit\Vezbi2Inherit\obj\Debug\netcoreapp2.2\Vezbi2Inherit.genruntimeconfig.cache

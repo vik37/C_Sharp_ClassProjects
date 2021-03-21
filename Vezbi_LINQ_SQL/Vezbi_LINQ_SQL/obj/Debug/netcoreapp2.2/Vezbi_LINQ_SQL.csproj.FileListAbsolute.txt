@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\bin\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.deps.json
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\bin\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.runtimeconfig.json
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\bin\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\bin\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.dll
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\bin\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.pdb
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\obj\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\obj\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\obj\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\obj\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\obj\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.dll
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\obj\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.pdb
+C:\Users\vikto\source\repos\Vezbi_LINQ_SQL\Vezbi_LINQ_SQL\obj\Debug\netcoreapp2.2\Vezbi_LINQ_SQL.genruntimeconfig.cache

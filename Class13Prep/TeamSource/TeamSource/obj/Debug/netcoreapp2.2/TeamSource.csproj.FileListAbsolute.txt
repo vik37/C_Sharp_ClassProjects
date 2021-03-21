@@ -1,0 +1,9 @@
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp2.2\TeamSource.deps.json
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp2.2\TeamSource.dll
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\TeamSource\bin\Debug\netcoreapp2.2\TeamSource.pdb
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp2.2\TeamSource.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp2.2\TeamSource.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp2.2\TeamSource.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp2.2\TeamSource.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp2.2\TeamSource.dll
+C:\Users\vikto\source\repos\Class13Prep\TeamSource\TeamSource\obj\Debug\netcoreapp2.2\TeamSource.pdb

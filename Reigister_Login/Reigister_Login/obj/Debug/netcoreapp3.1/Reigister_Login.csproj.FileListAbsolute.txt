@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\bin\Debug\netcoreapp3.1\Reigister_Login.exe
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\bin\Debug\netcoreapp3.1\Reigister_Login.deps.json
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\bin\Debug\netcoreapp3.1\Reigister_Login.runtimeconfig.json
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\bin\Debug\netcoreapp3.1\Reigister_Login.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\bin\Debug\netcoreapp3.1\Reigister_Login.dll
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\bin\Debug\netcoreapp3.1\Reigister_Login.pdb
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\obj\Debug\netcoreapp3.1\Reigister_Login.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\obj\Debug\netcoreapp3.1\Reigister_Login.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\obj\Debug\netcoreapp3.1\Reigister_Login.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\obj\Debug\netcoreapp3.1\Reigister_Login.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\obj\Debug\netcoreapp3.1\Reigister_Login.dll
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\obj\Debug\netcoreapp3.1\Reigister_Login.pdb
+C:\Users\vikto\source\repos\Reigister_Login\Reigister_Login\obj\Debug\netcoreapp3.1\Reigister_Login.genruntimeconfig.cache

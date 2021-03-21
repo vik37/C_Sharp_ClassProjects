@@ -1,0 +1,11 @@
+C:\Users\vikto\source\repos\Class_5\Class_5\bin\Debug\netcoreapp3.1\Class_5.exe
+C:\Users\vikto\source\repos\Class_5\Class_5\bin\Debug\netcoreapp3.1\Class_5.deps.json
+C:\Users\vikto\source\repos\Class_5\Class_5\bin\Debug\netcoreapp3.1\Class_5.runtimeconfig.json
+C:\Users\vikto\source\repos\Class_5\Class_5\bin\Debug\netcoreapp3.1\Class_5.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Class_5\Class_5\bin\Debug\netcoreapp3.1\Class_5.dll
+C:\Users\vikto\source\repos\Class_5\Class_5\bin\Debug\netcoreapp3.1\Class_5.pdb
+C:\Users\vikto\source\repos\Class_5\Class_5\obj\Debug\netcoreapp3.1\Class_5.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Class_5\Class_5\obj\Debug\netcoreapp3.1\Class_5.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Class_5\Class_5\obj\Debug\netcoreapp3.1\Class_5.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Class_5\Class_5\obj\Debug\netcoreapp3.1\Class_5.dll
+C:\Users\vikto\source\repos\Class_5\Class_5\obj\Debug\netcoreapp3.1\Class_5.pdb

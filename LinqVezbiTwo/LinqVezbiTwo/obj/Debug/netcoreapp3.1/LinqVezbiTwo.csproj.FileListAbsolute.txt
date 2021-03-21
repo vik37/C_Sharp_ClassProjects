@@ -1,0 +1,16 @@
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\bin\Debug\netcoreapp3.1\LinqVezbiTwo.exe
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\bin\Debug\netcoreapp3.1\LinqVezbiTwo.deps.json
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\bin\Debug\netcoreapp3.1\LinqVezbiTwo.runtimeconfig.json
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\bin\Debug\netcoreapp3.1\LinqVezbiTwo.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\bin\Debug\netcoreapp3.1\LinqVezbiTwo.dll
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\bin\Debug\netcoreapp3.1\LinqVezbiTwo.pdb
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\bin\Debug\netcoreapp3.1\Person.dll
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\bin\Debug\netcoreapp3.1\Person.pdb
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\obj\Debug\netcoreapp3.1\LinqVezbiTwo.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\obj\Debug\netcoreapp3.1\LinqVezbiTwo.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\obj\Debug\netcoreapp3.1\LinqVezbiTwo.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\obj\Debug\netcoreapp3.1\LinqVezbiTwo.AssemblyInfo.cs
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\obj\Debug\netcoreapp3.1\LinqVezbiTwo.csproj.CopyComplete
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\obj\Debug\netcoreapp3.1\LinqVezbiTwo.dll
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\obj\Debug\netcoreapp3.1\LinqVezbiTwo.pdb
+C:\Users\vikto\source\repos\LinqVezbiTwo\LinqVezbiTwo\obj\Debug\netcoreapp3.1\LinqVezbiTwo.genruntimeconfig.cache

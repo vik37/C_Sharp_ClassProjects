@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "constructor_enum_vezbi/1.0.0": {
+        "runtime": {
+          "constructor_enum_vezbi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "constructor_enum_vezbi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\obj\Debug\netcoreapp3.1\Vezbi_exercise.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\obj\Debug\netcoreapp3.1\Vezbi_exercise.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\obj\Debug\netcoreapp3.1\Vezbi_exercise.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\obj\Debug\netcoreapp3.1\Vezbi_exercise.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\bin\Debug\netcoreapp3.1\Vezbi_exercise.exe
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\bin\Debug\netcoreapp3.1\Vezbi_exercise.deps.json
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\bin\Debug\netcoreapp3.1\Vezbi_exercise.runtimeconfig.json
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\bin\Debug\netcoreapp3.1\Vezbi_exercise.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\bin\Debug\netcoreapp3.1\Vezbi_exercise.dll
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\bin\Debug\netcoreapp3.1\Vezbi_exercise.pdb
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\obj\Debug\netcoreapp3.1\Vezbi_exercise.dll
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\obj\Debug\netcoreapp3.1\Vezbi_exercise.pdb
+C:\Users\vikto\source\repos\Vezbi_exercise\Vezbi_exercise\obj\Debug\netcoreapp3.1\Vezbi_exercise.genruntimeconfig.cache

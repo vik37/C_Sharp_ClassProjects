@@ -1,0 +1,16 @@
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.exe
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.deps.json
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.json
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.dll
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\FakeFacebook.pdb
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.dll
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\bin\Debug\netcoreapp3.1\WebApi.pdb
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.csproj.CopyComplete
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.dll
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.pdb
+C:\Users\vikto\source\repos\Class15Prep\ExceptionHandling\FakeFacebook\obj\Debug\netcoreapp3.1\FakeFacebook.genruntimeconfig.cache

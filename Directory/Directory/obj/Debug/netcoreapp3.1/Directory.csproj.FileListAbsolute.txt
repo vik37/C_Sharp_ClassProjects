@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\Directory\Directory\bin\Debug\netcoreapp3.1\Directory.exe
+C:\Users\vikto\source\repos\Directory\Directory\bin\Debug\netcoreapp3.1\Directory.deps.json
+C:\Users\vikto\source\repos\Directory\Directory\bin\Debug\netcoreapp3.1\Directory.runtimeconfig.json
+C:\Users\vikto\source\repos\Directory\Directory\bin\Debug\netcoreapp3.1\Directory.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Directory\Directory\bin\Debug\netcoreapp3.1\Directory.dll
+C:\Users\vikto\source\repos\Directory\Directory\bin\Debug\netcoreapp3.1\Directory.pdb
+C:\Users\vikto\source\repos\Directory\Directory\obj\Debug\netcoreapp3.1\Directory.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Directory\Directory\obj\Debug\netcoreapp3.1\Directory.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Directory\Directory\obj\Debug\netcoreapp3.1\Directory.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Directory\Directory\obj\Debug\netcoreapp3.1\Directory.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Directory\Directory\obj\Debug\netcoreapp3.1\Directory.dll
+C:\Users\vikto\source\repos\Directory\Directory\obj\Debug\netcoreapp3.1\Directory.pdb
+C:\Users\vikto\source\repos\Directory\Directory\obj\Debug\netcoreapp3.1\Directory.genruntimeconfig.cache

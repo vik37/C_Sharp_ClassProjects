@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\bin\Debug\netcoreapp3.1\Generic_colect.exe
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\bin\Debug\netcoreapp3.1\Generic_colect.deps.json
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\bin\Debug\netcoreapp3.1\Generic_colect.runtimeconfig.json
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\bin\Debug\netcoreapp3.1\Generic_colect.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\bin\Debug\netcoreapp3.1\Generic_colect.dll
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\bin\Debug\netcoreapp3.1\Generic_colect.pdb
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\obj\Debug\netcoreapp3.1\Generic_colect.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\obj\Debug\netcoreapp3.1\Generic_colect.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\obj\Debug\netcoreapp3.1\Generic_colect.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\obj\Debug\netcoreapp3.1\Generic_colect.AssemblyInfo.cs
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\obj\Debug\netcoreapp3.1\Generic_colect.dll
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\obj\Debug\netcoreapp3.1\Generic_colect.pdb
+C:\Users\vikto\source\repos\None_generic_vezbi\Generic_colect\obj\Debug\netcoreapp3.1\Generic_colect.genruntimeconfig.cache

@@ -1,0 +1,9 @@
+C:\Users\vikto\source\repos\LinqVezbiTwo\Form Ui\bin\Debug\Form Ui.exe.config
+C:\Users\vikto\source\repos\LinqVezbiTwo\Form Ui\bin\Debug\Form Ui.exe
+C:\Users\vikto\source\repos\LinqVezbiTwo\Form Ui\bin\Debug\Form Ui.pdb
+C:\Users\vikto\source\repos\LinqVezbiTwo\Form Ui\obj\Debug\Form_Ui.Dashbord.resources
+C:\Users\vikto\source\repos\LinqVezbiTwo\Form Ui\obj\Debug\Form_Ui.Properties.Resources.resources
+C:\Users\vikto\source\repos\LinqVezbiTwo\Form Ui\obj\Debug\Form Ui.csproj.GenerateResource.cache
+C:\Users\vikto\source\repos\LinqVezbiTwo\Form Ui\obj\Debug\Form Ui.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\LinqVezbiTwo\Form Ui\obj\Debug\Form Ui.exe
+C:\Users\vikto\source\repos\LinqVezbiTwo\Form Ui\obj\Debug\Form Ui.pdb

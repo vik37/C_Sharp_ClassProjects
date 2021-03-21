@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\bin\Debug\netcoreapp3.1\Vezbi_csharp.exe
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\bin\Debug\netcoreapp3.1\Vezbi_csharp.deps.json
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\bin\Debug\netcoreapp3.1\Vezbi_csharp.runtimeconfig.json
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\bin\Debug\netcoreapp3.1\Vezbi_csharp.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\bin\Debug\netcoreapp3.1\Vezbi_csharp.dll
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\bin\Debug\netcoreapp3.1\Vezbi_csharp.pdb
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\obj\Debug\netcoreapp3.1\Vezbi_csharp.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\obj\Debug\netcoreapp3.1\Vezbi_csharp.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\obj\Debug\netcoreapp3.1\Vezbi_csharp.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\obj\Debug\netcoreapp3.1\Vezbi_csharp.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\obj\Debug\netcoreapp3.1\Vezbi_csharp.dll
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\obj\Debug\netcoreapp3.1\Vezbi_csharp.pdb
+C:\Users\vikto\source\repos\Vezbi_csharp\Vezbi_csharp\obj\Debug\netcoreapp3.1\Vezbi_csharp.genruntimeconfig.cache

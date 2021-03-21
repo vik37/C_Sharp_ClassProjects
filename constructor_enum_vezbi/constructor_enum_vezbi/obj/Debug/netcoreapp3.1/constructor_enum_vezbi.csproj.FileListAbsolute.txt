@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\bin\Debug\netcoreapp3.1\constructor_enum_vezbi.exe
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\bin\Debug\netcoreapp3.1\constructor_enum_vezbi.deps.json
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\bin\Debug\netcoreapp3.1\constructor_enum_vezbi.runtimeconfig.json
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\bin\Debug\netcoreapp3.1\constructor_enum_vezbi.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\bin\Debug\netcoreapp3.1\constructor_enum_vezbi.dll
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\bin\Debug\netcoreapp3.1\constructor_enum_vezbi.pdb
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\obj\Debug\netcoreapp3.1\constructor_enum_vezbi.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\obj\Debug\netcoreapp3.1\constructor_enum_vezbi.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\obj\Debug\netcoreapp3.1\constructor_enum_vezbi.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\obj\Debug\netcoreapp3.1\constructor_enum_vezbi.AssemblyInfo.cs
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\obj\Debug\netcoreapp3.1\constructor_enum_vezbi.dll
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\obj\Debug\netcoreapp3.1\constructor_enum_vezbi.pdb
+C:\Users\vikto\source\repos\constructor_enum_vezbi\constructor_enum_vezbi\obj\Debug\netcoreapp3.1\constructor_enum_vezbi.genruntimeconfig.cache

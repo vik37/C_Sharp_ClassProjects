@@ -1,0 +1,12 @@
+C:\Users\vikto\source\repos\Class_5\enums_app\bin\Debug\netcoreapp3.1\enums_app.exe
+C:\Users\vikto\source\repos\Class_5\enums_app\bin\Debug\netcoreapp3.1\enums_app.deps.json
+C:\Users\vikto\source\repos\Class_5\enums_app\bin\Debug\netcoreapp3.1\enums_app.runtimeconfig.json
+C:\Users\vikto\source\repos\Class_5\enums_app\bin\Debug\netcoreapp3.1\enums_app.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\Class_5\enums_app\bin\Debug\netcoreapp3.1\enums_app.dll
+C:\Users\vikto\source\repos\Class_5\enums_app\bin\Debug\netcoreapp3.1\enums_app.pdb
+C:\Users\vikto\source\repos\Class_5\enums_app\obj\Debug\netcoreapp3.1\enums_app.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\Class_5\enums_app\obj\Debug\netcoreapp3.1\enums_app.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\Class_5\enums_app\obj\Debug\netcoreapp3.1\enums_app.AssemblyInfo.cs
+C:\Users\vikto\source\repos\Class_5\enums_app\obj\Debug\netcoreapp3.1\enums_app.dll
+C:\Users\vikto\source\repos\Class_5\enums_app\obj\Debug\netcoreapp3.1\enums_app.pdb
+C:\Users\vikto\source\repos\Class_5\enums_app\obj\Debug\netcoreapp3.1\enums_app.genruntimeconfig.cache

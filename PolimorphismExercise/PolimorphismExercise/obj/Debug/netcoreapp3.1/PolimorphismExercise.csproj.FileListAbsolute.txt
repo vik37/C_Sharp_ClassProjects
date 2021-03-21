@@ -1,0 +1,13 @@
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\bin\Debug\netcoreapp3.1\PolimorphismExercise.exe
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\bin\Debug\netcoreapp3.1\PolimorphismExercise.deps.json
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\bin\Debug\netcoreapp3.1\PolimorphismExercise.runtimeconfig.json
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\bin\Debug\netcoreapp3.1\PolimorphismExercise.runtimeconfig.dev.json
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\bin\Debug\netcoreapp3.1\PolimorphismExercise.dll
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\bin\Debug\netcoreapp3.1\PolimorphismExercise.pdb
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\obj\Debug\netcoreapp3.1\PolimorphismExercise.csprojAssemblyReference.cache
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\obj\Debug\netcoreapp3.1\PolimorphismExercise.AssemblyInfoInputs.cache
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\obj\Debug\netcoreapp3.1\PolimorphismExercise.AssemblyInfo.cs
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\obj\Debug\netcoreapp3.1\PolimorphismExercise.csproj.CoreCompileInputs.cache
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\obj\Debug\netcoreapp3.1\PolimorphismExercise.dll
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\obj\Debug\netcoreapp3.1\PolimorphismExercise.pdb
+C:\Users\vikto\source\repos\PolimorphismExercise\PolimorphismExercise\obj\Debug\netcoreapp3.1\PolimorphismExercise.genruntimeconfig.cache
